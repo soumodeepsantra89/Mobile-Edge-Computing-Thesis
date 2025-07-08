@@ -1,0 +1,98 @@
+Keyword,Type,Year Range,Count
+computational efficiency,Goal,2014-2016,1
+computational efficiency,Goal,2020-2022,1
+computational efficiency,Goal,2023-2024,2
+decision making,Goal,2017-2019,1
+decision making,Goal,2020-2022,1
+decision making,Goal,2023-2024,1
+economic and social effects,Goal,2020-2022,1
+economic and social effects,Goal,2023-2024,1
+energy efficiency,Goal,2011-2013,2
+energy efficiency,Goal,2014-2016,1
+energy efficiency,Goal,2017-2019,1
+energy efficiency,Goal,2020-2022,3
+energy efficiency,Goal,2023-2024,1
+energy utilization,Goal,2014-2016,3
+energy utilization,Goal,2017-2019,4
+energy utilization,Goal,2020-2022,1
+energy utilization,Goal,2023-2024,5
+energy-consumption,Goal,2023-2024,3
+green computing,Goal,2014-2016,4
+green computing,Goal,2017-2019,1
+green computing,Goal,2020-2022,1
+green computing,Goal,2023-2024,2
+information management,Goal,2011-2013,2
+information management,Goal,2014-2016,2
+information management,Goal,2020-2022,1
+low-latency communication,Goal,2020-2022,3
+quality of service,Goal,2011-2013,1
+quality of service,Goal,2014-2016,1
+quality of service,Goal,2017-2019,1
+quality of service,Goal,2020-2022,3
+quality of service,Goal,2023-2024,2
+resource allocation,Goal,2014-2016,4
+resource allocation,Goal,2017-2019,2
+resource allocation,Goal,2020-2022,3
+resource allocation,Goal,2023-2024,2
+resource management,Goal,2011-2013,1
+resource management,Goal,2014-2016,2
+resource management,Goal,2017-2019,1
+resource management,Goal,2020-2022,3
+scheduling algorithms,Goal,2023-2024,1
+wireless communications,Goal,2014-2016,1
+wireless communications,Goal,2017-2019,2
+approximation algorithms,Technique,2014-2016,1
+approximation algorithms,Technique,2020-2022,1
+bandwidth,Technique,2011-2013,1
+bandwidth,Technique,2017-2019,4
+bandwidth,Technique,2020-2022,3
+computation offloading,Technique,2014-2016,5
+computation offloading,Technique,2017-2019,3
+computation offloading,Technique,2020-2022,3
+computation offloading,Technique,2023-2024,4
+computation resources,Technique,2017-2019,1
+computation resources,Technique,2020-2022,1
+computation resources,Technique,2023-2024,1
+computational complexity,Technique,2014-2016,2
+computational complexity,Technique,2017-2019,1
+computational complexity,Technique,2020-2022,2
+computational complexity,Technique,2023-2024,1
+convex optimization,Technique,2011-2013,1
+convex optimization,Technique,2017-2019,1
+convex optimization,Technique,2020-2022,2
+deep learning,Technique,2020-2022,1
+deep learning,Technique,2023-2024,2
+deep reinforcement learning,Technique,2020-2022,1
+deep reinforcement learning,Technique,2023-2024,2
+game theory,Technique,2017-2019,1
+heuristic algorithms,Technique,2023-2024,3
+integer programming,Technique,2020-2022,1
+integer programming,Technique,2023-2024,1
+iterative methods,Technique,2014-2016,1
+iterative methods,Technique,2020-2022,1
+job analysis,Technique,2017-2019,1
+job analysis,Technique,2023-2024,1
+learning systems,Technique,2023-2024,1
+markov processes,Technique,2023-2024,1
+multiaccess,Technique,2020-2022,1
+multiaccess,Technique,2023-2024,1
+network architecture,Technique,2017-2019,1
+network architecture,Technique,2020-2022,3
+nonlinear programming,Technique,2020-2022,1
+optimization,Technique,2011-2013,2
+optimization,Technique,2014-2016,4
+optimization,Technique,2017-2019,3
+optimization,Technique,2020-2022,4
+optimization,Technique,2023-2024,6
+optimization problems,Technique,2011-2013,1
+optimization problems,Technique,2014-2016,1
+optimization problems,Technique,2017-2019,1
+optimization problems,Technique,2020-2022,2
+reinforcement learning,Technique,2020-2022,1
+reinforcement learning,Technique,2023-2024,2
+task analysis,Technique,2017-2019,1
+task analysis,Technique,2020-2022,1
+task analysis,Technique,2023-2024,1
+task offloading,Technique,2017-2019,2
+task offloading,Technique,2020-2022,4
+task offloading,Technique,2023-2024,2

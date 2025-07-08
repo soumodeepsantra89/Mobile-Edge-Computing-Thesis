@@ -1,0 +1,61 @@
+Time Period,Goal,Goal Occurrence,Technique 1,Count 1,Technique 2,Count 2,Technique 3,Count 3
+2011_2013,information management,2,,,,,,
+2011_2013,energy efficiency,2,convex optimization,1.0,optimization,1.0,optimization problems,1.0
+2011_2013,resource management,1,optimization,1.0,,,,
+2011_2013,quality of service,1,optimization,1.0,,,,
+2014_2016,resource allocation,12,computation offloading,6.0,optimization,4.0,optimization problems,2.0
+2014_2016,resource management,5,bandwidth,1.0,,,,
+2014_2016,information management,4,optimization,1.0,computation offloading,1.0,,
+2014_2016,quality of service,3,computation offloading,1.0,optimization,1.0,computational complexity,1.0
+2014_2016,energy utilization,10,computation offloading,6.0,optimization,4.0,computation resources,2.0
+2014_2016,wireless communications,2,computation offloading,1.0,,,,
+2014_2016,energy efficiency,4,optimization,2.0,computation offloading,1.0,optimization problems,1.0
+2014_2016,green computing,6,computation offloading,5.0,optimization,5.0,iterative methods,2.0
+2014_2016,energy-consumption,1,computation offloading,1.0,convex optimization,1.0,optimization,1.0
+2014_2016,economic and social effects,1,markov processes,1.0,,,,
+2014_2016,computational efficiency,1,computation offloading,1.0,,,,
+2017_2019,energy efficiency,77,computation offloading,32.0,optimization,30.0,computation resources,13.0
+2017_2019,economic and social effects,22,optimization,8.0,bandwidth,7.0,computation offloading,4.0
+2017_2019,energy utilization,134,optimization,71.0,computation offloading,69.0,task offloading,30.0
+2017_2019,computational efficiency,17,computation offloading,12.0,optimization,9.0,computational complexity,5.0
+2017_2019,resource allocation,195,optimization,99.0,computation offloading,66.0,integer programming,33.0
+2017_2019,quality of service,113,bandwidth,34.0,optimization,26.0,computation offloading,18.0
+2017_2019,resource management,65,optimization,25.0,computation offloading,18.0,job analysis,15.0
+2017_2019,wireless communications,23,job analysis,7.0,task analysis,7.0,computation offloading,6.0
+2017_2019,green computing,78,computation offloading,40.0,optimization,35.0,task offloading,13.0
+2017_2019,scheduling algorithms,15,optimization,4.0,bandwidth,3.0,computation offloading,3.0
+2017_2019,information management,16,computation offloading,3.0,machine learning,3.0,multiaccess,3.0
+2017_2019,low-latency communication,22,optimization,8.0,bandwidth,7.0,network architecture,5.0
+2017_2019,network security,16,optimization,4.0,computation offloading,2.0,computational complexity,2.0
+2017_2019,decision making,18,optimization,4.0,network architecture,3.0,job analysis,2.0
+2017_2019,energy-consumption,14,computation offloading,8.0,optimization,7.0,reinforcement learning,3.0
+2020_2022,resource management,179,optimization,77.0,task analysis,67.0,computation offloading,52.0
+2020_2022,energy efficiency,143,optimization,73.0,computation offloading,49.0,task offloading,30.0
+2020_2022,wireless communications,45,optimization,19.0,computation offloading,18.0,reinforcement learning,16.0
+2020_2022,resource allocation,542,optimization,315.0,computation offloading,182.0,task offloading,132.0
+2020_2022,quality of service,286,optimization,108.0,bandwidth,59.0,reinforcement learning,59.0
+2020_2022,energy utilization,389,optimization,222.0,computation offloading,180.0,task offloading,120.0
+2020_2022,energy-consumption,105,optimization,60.0,computation offloading,53.0,task offloading,37.0
+2020_2022,green computing,165,optimization,95.0,computation offloading,65.0,task offloading,44.0
+2020_2022,decision making,51,optimization,24.0,computation offloading,16.0,reinforcement learning,13.0
+2020_2022,information management,38,optimization,10.0,task analysis,7.0,machine learning,7.0
+2020_2022,computational efficiency,28,optimization,16.0,computation offloading,14.0,computation resources,8.0
+2020_2022,scheduling algorithms,44,optimization,18.0,task offloading,11.0,task analysis,11.0
+2020_2022,network security,55,optimization,16.0,network architecture,11.0,bandwidth,10.0
+2020_2022,low-latency communication,47,optimization,18.0,computation offloading,8.0,reinforcement learning,8.0
+2020_2022,economic and social effects,48,optimization,25.0,computation offloading,14.0,task offloading,9.0
+2023_2024,energy utilization,384,computation offloading,254.0,optimization,246.0,task offloading,160.0
+2023_2024,resource allocation,490,optimization,303.0,computation offloading,257.0,task offloading,167.0
+2023_2024,resource management,276,optimization,173.0,task analysis,173.0,job analysis,152.0
+2023_2024,energy-consumption,165,optimization,114.0,computation offloading,113.0,task analysis,78.0
+2023_2024,network security,48,optimization,18.0,computation offloading,16.0,task analysis,11.0
+2023_2024,green computing,143,optimization,90.0,computation offloading,88.0,task offloading,55.0
+2023_2024,computational efficiency,57,computation offloading,49.0,optimization,33.0,task analysis,27.0
+2023_2024,quality of service,216,optimization,107.0,computation offloading,81.0,reinforcement learning,60.0
+2023_2024,energy efficiency,133,computation offloading,77.0,optimization,72.0,task analysis,47.0
+2023_2024,decision making,72,reinforcement learning,33.0,optimization,32.0,computation offloading,31.0
+2023_2024,information management,47,optimization,24.0,task analysis,19.0,job analysis,17.0
+2023_2024,wireless communications,55,task analysis,31.0,optimization,31.0,computation offloading,29.0
+2023_2024,scheduling algorithms,63,optimization,30.0,computation offloading,24.0,task analysis,23.0
+2023_2024,economic and social effects,38,computation offloading,23.0,optimization,20.0,task offloading,11.0
+2023_2024,low-latency communication,51,optimization,27.0,task analysis,15.0,computation offloading,13.0
